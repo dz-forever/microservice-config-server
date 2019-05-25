@@ -1,5 +1,5 @@
 server:
-  port: 6201
+  port: 6600
 spring:
   application:
     name: microservice-consumer-movie-Feign
